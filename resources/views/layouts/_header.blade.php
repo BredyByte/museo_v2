@@ -20,7 +20,7 @@
                         <img class="logo"  src={{asset("images/logo_big.png")}}>
                     </div>
                     <div class="txtbl_big">
-                        <h1><? echo trans('home.museum');?></h1>
+                        <h1><?=trans('home.museum')?></h1>
                         {{--<a href="/" class="main_btn bttn transbtn">КУПИТЬ БИЛЕТЫ</a>--}}
                     </div>
                 </div>
